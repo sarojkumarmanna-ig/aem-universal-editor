@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/saroj-aem-uni-edit-eds/:/",
-    "/content/saroj-aem-uni-edit-eds/configuration:/.helix/config.json",
-    "/content/saroj-aem-uni-edit-eds/metadata:/metadata.json"
+    "/content/saroj-eds-universaleditor/:/",
+    "/content/saroj-eds-universaleditor/configuration:/.helix/config.json",
+    "/content/saroj-eds-universaleditor/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/saroj-aem-uni-edit-eds/"
+    "/content/saroj-eds-universaleditor/"
   ]
 }
